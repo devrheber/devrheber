@@ -9,9 +9,4 @@ Soy Heber Rodríguez.
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devrheber&hide_langs_below=.25&theme=radical">
 </p>
 
-
-<p align="center">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150">
-</p>
-
 ⭐ Collaboration [Pratik Kumar](https://github.com/pr2tik1)
